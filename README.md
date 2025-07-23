@@ -26,9 +26,9 @@ I'm a frontend developer passionate about building clean, responsive, and user-f
 
 ## Let's Connect
 
-- 💼 Portfolio: [Coming Soon]
-- 💬 LinkedIn: [https:/www.linkedin.com/in/kelvin-akpaka]
-- ✉️ Email: [Akpakakelvin1@gmail.com]
+-  Portfolio: [Coming Soon]
+-  LinkedIn: [https:/www.linkedin.com/in/kelvin-akpaka]
+-  Email: [Akpakakelvin1@gmail.com]
 
 ---
 
