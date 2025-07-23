@@ -1,4 +1,4 @@
-# Hey there, I'm Kelvin
+Hey there, I'm Kelvin
 
 I'm a frontend developer passionate about building clean, responsive, and user-friendly web apps. I love turning ideas into reality using **React**, **Tailwind CSS**, and **Firebase**. Whether it's a dynamic dashboard or a sleek portfolio, I focus on delivering modern UI experiences that work across devices.
 
