@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kelvin
 
-<!--
-**Kelvin-html/Kelvin-html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer passionate about building clean, responsive, and user-friendly web apps. I love turning ideas into reality using **React**, **Tailwind CSS**, and **Firebase**. Whether it's a dynamic dashboard or a sleek portfolio, I focus on delivering modern UI experiences that work across devices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects I'm currently working on
+
+### 🔹 [TrackApply]
+> A job application tracker app built with React, Firebase, and Tailwind CSS. It supports full CRUD operations, job filtering, and dark mode—designed to help job seekers stay organized.
+
+### 🔹 [GallopGo]
+> A real-time horse transportation website. Features include a glowing availability status, testimonial slider, and client info kit to build trust with customers.
+
+<!-- -->
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Tailwind CSS
+- **Tools & Platforms:** Git, Firebase, Netlify, VS code
+- **Currently Learning:** TypeScript, Next.js
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 Portfolio: [Coming Soon]
+- 💬 LinkedIn: [https:/www.linkedin.com/in/kelvin-akpaka]
+- ✉️ Email: [Akpakakelvin1@gmail.com]
+
+---
+
 -->
