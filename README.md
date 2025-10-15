@@ -15,10 +15,9 @@ I'm a frontend developer passionate about building clean, responsive, and user-f
 ---
 
 ## 🛠Tech Stack
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML/CSS,TypeScript, Next.js
 - **Frameworks & Libraries:** React, Tailwind CSS
 - **Tools & Platforms:** Git, Firebase, Netlify, VS code
-- **Currently Learning:** TypeScript, Next.js
 
 ---
 
